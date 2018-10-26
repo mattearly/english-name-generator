@@ -1,0 +1,12 @@
+#executable name
+namegen
+
+#object files
+*.o
+
+#qtcreator project files
+*.files
+*.config
+*.creator
+*.user
+*.includes
